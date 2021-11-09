@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 dwave-ocean-sdk = "*"
+ipykernel = "*"
 
 [dev-packages]
 
